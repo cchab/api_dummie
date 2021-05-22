@@ -1,6 +1,8 @@
 {
   "user": [
     { "id": 1, "age":18, "nombre":"omar"},
-    { "id": 2, "age":20, "nombre":"carlos"}
+    { "id": 2, "age":20, "nombre":"carlos"},
+    { "id": 4, "age":25, "nombre":"carlos omar"},
+    { "id": 5, "age":30, "nombre":"josé"}
   ]
 }
